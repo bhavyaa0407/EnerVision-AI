@@ -14,7 +14,7 @@ EnerVision AI is an AI-based smart energy auditing platform developed for the Ma
 - Automatic PDF Report Generation
 - Interactive Dashboard
 
-  ## Technology Stack
+## Technology Stack
 
 - Python
 - Streamlit
@@ -24,7 +24,7 @@ EnerVision AI is an AI-based smart energy auditing platform developed for the Ma
 - Joblib
 - ReportLab
 
-  ## Project Workflow
+## Project Workflow
 
 1. Input Factory Parameters
 2. Predict Energy Consumption
@@ -34,7 +34,7 @@ EnerVision AI is an AI-based smart energy auditing platform developed for the Ma
 6. Generate AI Recommendations
 7. Create PDF Energy Audit Report
 
-   ## Developed By
+## Developed By
 
 Bhavya Prajapati
 
